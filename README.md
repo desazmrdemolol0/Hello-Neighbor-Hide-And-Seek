@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hello Neighbor: Hide and
 **Get the most recent version of Hello Neighbor: Hide and Seek today!**
 
 ---
-**Last updated:** 2026-11-11 18:24:50 UTC
+**Last updated:** 2026-11-12 01:20:06 UTC
